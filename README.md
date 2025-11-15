@@ -184,6 +184,22 @@ Created interactive dashboards to visualize insurance claims data and provide hi
 
 ---
 
+#### 7. [Uber Drive Data Analysis (Python)]()
+**Date:** May 2022
+
+Comprehensive exploratory data analysis of Uber drive data covering 1,155 trips to uncover insights into travel patterns, purposes, and business operations.
+
+**Highlights:**
+- Performed data cleaning and handled missing values (502 NA values) in dataset
+- Analyzed trip patterns across 176 unique start locations and 187 unique stop locations  
+- Identified most frequent routes: Morrisville-Cary (52 trips, 395.7 miles)
+- Discovered 94% of miles were clocked under Business category vs 6% Personal
+- Created visualizations showing Meeting as top purpose (2,851 miles traveled)
+- Calculated summary statistics showing mean trip distance of 10.57 miles (std: 21.58)
+- Used data grouping and aggregation to identify key travel patterns
+
+**Skills:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Exploratory Data Analysis` `Data Cleaning` `Data Visualization` `Statistical Analysis`
+
 ## 🎓 Education
 
 **Master of Science in Business Analytics** | 2:1 Honours (QCA: 3.01/4.00)  
