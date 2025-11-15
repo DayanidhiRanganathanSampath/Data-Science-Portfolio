@@ -200,6 +200,26 @@ Comprehensive exploratory data analysis of Uber drive data covering 1,155 trips 
 
 **Skills:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Exploratory Data Analysis` `Data Cleaning` `Data Visualization` `Statistical Analysis`
 
+---
+
+#### 8. [Wholesale Customer Analysis (Python)]()
+
+**Date:** June 2022
+
+Comprehensive statistical analysis of wholesale distributor data covering 440 retailers across Portugal to identify spending patterns, regional differences, and customer segmentation insights.
+
+**Highlights:**
+
+- Analyzed spending patterns across 6 product varieties (Fresh, Milk, Grocery, Frozen, Detergents, Delicatessen)
+- Compared regional performance across Lisbon, Oporto, and Other regions
+- Evaluated channel effectiveness between Hotel and Retail distribution
+- Identified inconsistent product behaviors using IQR and variability measures
+- Detected outliers using boxplot analysis and IQR methodology
+- Generated business recommendations for improving retail presence in underperforming regions
+- Created comprehensive visualizations showing spending distributions and regional comparisons
+
+**Skills:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Descriptive Statistics` `Data Cleaning` `Exploratory Data Analysis` `Statistical Analysis` `Business Intelligence`
+
 ## 🎓 Education
 
 **Master of Science in Business Analytics** | 2:1 Honours (QCA: 3.01/4.00)  
