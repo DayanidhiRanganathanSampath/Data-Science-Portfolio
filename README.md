@@ -20,9 +20,9 @@
 
 ## 👨‍💻 Profile
 
-Results-driven **Data Analyst** with **3 years of professional experience** at Cognizant Technology Solutions, specializing in **Business Intelligence, Power BI, SQL, and Excel analytics**. Proven expertise in designing and delivering robust dashboards, automating reporting processes, and integrating data from multiple sources to support strategic business decisions.
+Results-driven **Data Analyst** with around **3 years of professional experience** at Cognizant Technology Solutions, specializing in **Business Intelligence, Power BI, SQL, and Excel analytics**. Proven expertise in designing and delivering robust dashboards, automating reporting processes, and integrating data from multiple sources to support strategic business decisions.
 
-Graduated with anMSc Business Analytics at University of Limerick** with 2:1 Honours (QCA: 3.01/4.00), building on a strong foundation from the **UT Austin McCombs PGP in Data Science & Business Analytics**. Adept at translating complex data into actionable insights, driving operational efficiency by up to 40%, and collaborating with global stakeholders to deliver high-value analytic solutions.
+Graduated with an **MSc Business Analytics at University of Limerick with 2:1 Honours (QCA: 3.01/4.00)**, building on a strong foundation from the **UT Austin McCombs PGP in Data Science & Business Analytics**. Adept at translating complex data into actionable insights, driving operational efficiency by up to 40%, and collaborating with global stakeholders to deliver high-value analytic solutions.
 
 Passionate about enabling data-driven decision-making through advanced analytics, predictive modeling, and visualization. Seeking opportunities in **Data Analytics, Business Intelligence, and Data Science roles in Ireland and Europe**.
 
