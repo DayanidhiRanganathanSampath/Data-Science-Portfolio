@@ -5,7 +5,7 @@
 ### Dayanidhi Ranganathan Sampath
 **Data Analyst | Business Intelligence Specialist**
 
-🎓 **MSc Business Analytics** - University of Limerick (2024-2025) | 2:1 Honours  
+🎓 **MSc Business Analytics** - University of Limerick (2024-2025) | 2:1 Honours (QCA: 3.01/4.00) 
 🎓 **PGP Data Science & Business Analytics** - UT Austin McCombs (2022-2023) | GPA 3.47/4.00  
 🎓 **BE Mechanical Engineering** - Anna University (2016-2020) | First Class Honours
 
@@ -22,7 +22,7 @@
 
 Results-driven **Data Analyst** with **3 years of professional experience** at Cognizant Technology Solutions, specializing in **Business Intelligence, Power BI, SQL, and Excel analytics**. Proven expertise in designing and delivering robust dashboards, automating reporting processes, and integrating data from multiple sources to support strategic business decisions.
 
-Currently pursuing **MSc Business Analytics at University of Limerick** with 2:1 Honours, building on a strong foundation from the **UT Austin McCombs PGP in Data Science & Business Analytics**. Adept at translating complex data into actionable insights, driving operational efficiency by up to 40%, and collaborating with global stakeholders to deliver high-value analytic solutions.
+Graduated with anMSc Business Analytics at University of Limerick** with 2:1 Honours (QCA: 3.01/4.00), building on a strong foundation from the **UT Austin McCombs PGP in Data Science & Business Analytics**. Adept at translating complex data into actionable insights, driving operational efficiency by up to 40%, and collaborating with global stakeholders to deliver high-value analytic solutions.
 
 Passionate about enabling data-driven decision-making through advanced analytics, predictive modeling, and visualization. Seeking opportunities in **Data Analytics, Business Intelligence, and Data Science roles in Ireland and Europe**.
 
@@ -186,9 +186,8 @@ Created interactive dashboards to visualize insurance claims data and provide hi
 
 ## 🎓 Education
 
-**Master of Science in Business Analytics** | 2:1 Honours  
-*University of Limerick, Ireland* | September 2024 - August 2025  
-Key Modules: Data Mining, Predictive Analytics, Business Intelligence, Big Data Processing, Statistics for Business
+**Master of Science in Business Analytics** | 2:1 Honours (QCA: 3.01/4.00)  
+*University of Limerick, Ireland* | September 2024 - August 2025 (Graduated)Key Modules: Data Mining, Predictive Analytics, Business Intelligence, Big Data Processing, Statistics for Business
 
 **Post Graduate Program in Data Science and Business Analytics** | GPA: 3.47/4.00  
 *University of Texas at Austin - McCombs School of Business* | April 2022 - April 2023  
