@@ -3,37 +3,74 @@
 <div align="center">
 
 ### Dayanidhi Ranganathan Sampath
+**Data Analyst | Business Intelligence Specialist**
 
-🎓 **Post Graduate Program in Data Science and Business Analytics**  
-📍 University of Texas at Austin - McCombs School of Business | April 2022 - April 2025
+🎓 **MSc Business Analytics** - University of Limerick (2024-2025) | 2:1 Honours  
+🎓 **PGP Data Science & Business Analytics** - UT Austin McCombs (2022-2023) | GPA 3.47/4.00  
+🎓 **BE Mechanical Engineering** - Anna University (2016-2020) | First Class Honours
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dayanidhi-rs)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:dnidhi753@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dayanidhi-ranganathan-sampath-451173191)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=yahoo)](mailto:dayanidhi_sampath@yahoo.com)
+
+📍 **Limerick, Ireland** | 📞 +353-899462197 | 💼 STAMP 1G Visa
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-Data Analyst with 3+ years of experience and a Master's in Business Analytics, specializing in leveraging data-driven insights to solve complex business problems. Proficient in **Python, SQL, Power BI, Tableau, Machine Learning**, and **Statistical Analysis**. Passionate about transforming data into actionable strategies across Finance, Retail, and Marketing domains.
+Results-driven **Data Analyst** with **3 years of professional experience** at Cognizant Technology Solutions, specializing in **Business Intelligence, Power BI, SQL, and Excel analytics**. Proven expertise in designing and delivering robust dashboards, automating reporting processes, and integrating data from multiple sources to support strategic business decisions.
 
-### 🛠️ Technical Skills
+Currently pursuing **MSc Business Analytics at University of Limerick** with 2:1 Honours, building on a strong foundation from the **UT Austin McCombs PGP in Data Science & Business Analytics**. Adept at translating complex data into actionable insights, driving operational efficiency by up to 40%, and collaborating with global stakeholders to deliver high-value analytic solutions.
 
-**Programming & Analysis:**  
-`Python` `SQL` `R` `Excel (Advanced)`
+Passionate about enabling data-driven decision-making through advanced analytics, predictive modeling, and visualization. Seeking opportunities in **Data Analytics, Business Intelligence, and Data Science roles in Ireland and Europe**.
 
-**Machine Learning & AI:**  
-`Scikit-learn` `TensorFlow` `PyTorch` `Keras` `XGBoost` `Random Forest` `Logistic Regression` `SVM` `Clustering` `Time Series Analysis`
+---
 
-**Data Visualization:**  
-`Power BI` `Tableau` `Matplotlib` `Seaborn` `Plotly`
+## 🛠️ Core Skills & Technical Expertise
 
-**Databases & Tools:**  
-`MySQL` `PostgreSQL` `Snowflake` `Databricks` `Git` `Jupyter` `MLflow` `KNIME`
+### Business Intelligence & Reporting
+`Power BI` `Tableau` `DAX` `Power Query M` `Data Modeling` `KPI Dashboards` `Row-Level Security (RLS)` `Executive Reporting`
 
-**Analytics Techniques:**  
-`ETL Pipelines` `Feature Engineering` `EDA` `A/B Testing` `Statistical Modeling` `Predictive Analytics`
+### Data Analysis & Programming
+`Python` `SQL` `Excel (Advanced)` `VBA` `R` `NumPy` `Pandas` `Scikit-learn`
+
+### Data Visualization & Dashboarding  
+`Power BI` `Tableau` `Excel Charts` `Interactive Dashboards` `Visual Analytics` `Matplotlib` `Seaborn` `Plotly`
+
+### Database & Data Management
+`SQL Server` `MySQL` `PostgreSQL` `Azure Data Factory` `ETL Pipelines` `Data Integration` `Data Cleaning` `Data Governance`
+
+### Machine Learning & Predictive Analytics  
+`Predictive Modeling` `Time Series Forecasting (ARIMA)` `Regression Models` `Decision Trees` `Random Forest` `XGBoost` `Clustering` `SVM`
+
+### Cloud & Modern Tools
+`AWS` `Azure` `Snowflake` `Databricks` `Git` `Jupyter` `MLflow` `KNIME`
+
+### Business & Analytics Techniques
+`Statistical Analysis` `A/B Testing` `Feature Engineering` `EDA` `Market Basket Analysis` `Customer Segmentation` `RFM Analysis` `Anomaly Detection`
+
+---
+
+## 💼 Professional Experience
+
+### Data Analyst | Cognizant Technology Solutions
+**Chennai, India** | **October 2020 - June 2024**
+
+• Developed and maintained **KPI dashboards and performance reports** using **Power BI, Tableau, and Excel** for global stakeholders across Finance, HR, and Operations  
+• Consolidated large datasets from **ERP (NetSuite), SAP HR/Payroll, Topdesk, SQL Server, and Excel**, ensuring high data quality and accurate reporting  
+• **Automated reporting workflows** using **Excel VBA and Python**, reducing monthly reporting cycle times by **40%** and minimizing manual intervention  
+• Designed and implemented **predictive models in Python and SQL** for revenue optimization and early anomaly detection  
+• Built complex **data models, DAX measures, and Power Query M logic** in Power BI for interactive self-service analytics with Row-Level Security  
+• Created and optimized **SQL queries** for data extraction, transformation, and delivery, enhancing data integrity and operational efficiency  
+• Delivered **ad-hoc analysis and custom Tableau dashboards** to visualize trends and track KPIs, directly influencing strategic decisions at the executive level  
+• Provided second-line BI support, ensured dashboard governance, and maintained compliance with security policies
+
+**Key Projects at Cognizant:**
+- **Global Sales & Supply Chain Dashboard** (Power BI, Azure Data Factory, SQL): Integrated data pipelines, automated refresh processes, and implemented RLS - reduced manual reporting by 90%
+- **HR Payroll Analytics** (SAP, Excel, Power BI): Developed SLA compliance and employee KPI reports, improved compliance tracking and payroll optimization
+- **Supplier Performance Analysis** (SQL, Power BI): Identified supplier trends and process bottlenecks, supporting onboarding and finance improvements
 
 ---
 
@@ -147,31 +184,59 @@ Created interactive dashboards to visualize insurance claims data and provide hi
 
 ---
 
-## 📚 Certifications & Learning
+## 🎓 Education
 
-- **Post Graduate Program in Data Science and Business Analytics** - UT Austin McCombs (2022-2025)
+**Master of Science in Business Analytics** | 2:1 Honours  
+*University of Limerick, Ireland* | September 2024 - August 2025  
+Key Modules: Data Mining, Predictive Analytics, Business Intelligence, Big Data Processing, Statistics for Business
+
+**Post Graduate Program in Data Science and Business Analytics** | GPA: 3.47/4.00  
+*University of Texas at Austin - McCombs School of Business* | April 2022 - April 2023  
+Key Modules: Python for Data Science, Predictive Modelling, Time Series Forecasting, Tableau, Marketing & Retail Analytics
+
+**Bachelor of Engineering in Mechanical Engineering** | First Class Honours (7.18/10.00)  
+*Anna University, Chennai, India* | July 2016 - July 2020
+
+---
+
+## 🏆 Certifications
+
+- **AWS Cloud Practitioner (CLF-C02)** - Ongoing (Expected: October 2025)
+- **Power BI Data Analyst** - DataCamp (In Association with PL-300) | March 2025 - June 2025
 - **SQL** - Great Learning Academy ✅
 - **Data Visualization using Tableau** - Great Learning Academy ✅
 - **Marketing & Retail Analytics** - Great Learning Academy ✅
 - **Finance and Risk Analytics** - Great Learning Academy ✅
 - **Machine Learning** - Great Learning Academy ✅
+- **Predictive Modeling** - Great Learning Academy ✅
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm actively seeking opportunities in Data Analytics, Business Intelligence, and Data Science roles. Feel free to reach out!
+I'm actively seeking opportunities in **Data Analytics, Business Intelligence, and Data Science** roles in **Ireland and Europe**. Open to exciting challenges in:
 
-- 📧 Email: dnidhi753@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/dayanidhi-rs](https://linkedin.com/in/dayanidhi-rs)
-- 📍 Location: Limerick, Ireland (Open to relocation)
+• Business Intelligence & Analytics  
+• Data Engineering & ETL  
+• Predictive Analytics & Machine Learning  
+• Dashboard Development & Visualization  
+• Data-Driven Strategy & Insights
+
+**Contact Information:**
+- 📧 Email: dayanidhi_sampath@yahoo.com
+- 📞 Phone: +353-899462197
+- 💼 LinkedIn: [linkedin.com/in/dayanidhi-ranganathan-sampath-451173191](https://www.linkedin.com/in/dayanidhi-ranganathan-sampath-451173191)
+- 📍 Location: Limerick, Ireland
+- 📄 Visa Status: STAMP 1G (Authorized to work in Ireland)
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, please consider giving this repository a star!
+### ⭐ If you find my work interesting, please consider giving this repository a star!
 
-**Last Updated:** November 2025
+**Portfolio Last Updated:** November 2025
+
+*Available for immediate start | Open to relocation within Europe*
 
 </div>
