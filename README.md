@@ -56,7 +56,7 @@ Passionate about enabling data-driven decision-making through advanced analytics
 ## 💼 Professional Experience
 
 ### Data Analyst | Cognizant Technology Solutions
-**Chennai, India** | **October 2020 - June 2024**
+**Chennai, India** | **October 2021 - June 2024**
 
 • Developed and maintained **KPI dashboards and performance reports** using **Power BI, Tableau, and Excel** for global stakeholders across Finance, HR, and Operations  
 • Consolidated large datasets from **ERP (NetSuite), SAP HR/Payroll, Topdesk, SQL Server, and Excel**, ensuring high data quality and accurate reporting  
